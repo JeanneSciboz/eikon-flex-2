@@ -9,7 +9,6 @@
   justify-content: flex-end;
 }
 
-
 /* 3. exercice-justify-2 */
 .exercice-justify-2 .container {
   display: flex;
@@ -38,7 +37,6 @@
   align-items: center;
 }
 
-
 /* 7. exercice-align-3 */
 .exercice-align-3 .container {
   display: flex;
@@ -46,8 +44,15 @@
   align-items: center;
 }
 
-
 /* 8. exercice-all-1 */
+.exercice-all-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  
+}
 
 
 /* 9. exercice-all-2 */
